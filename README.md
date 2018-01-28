@@ -45,3 +45,7 @@ see a fitting option here, feel free to open an issue!
 * Mention at every meeting
 * 1 Lightning Talk at any time each year
 * Swag distribution at 1 meeting each year
+
+### One-Time Mention
+
+Either through monetary donation or providing the refreshments at a future meeting, individuals and small organizations can support the group. You'll get mentioned (and can provide swag etc) at the meeting following your contribution.
