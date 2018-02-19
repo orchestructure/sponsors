@@ -11,13 +11,15 @@ also have other options for smaller organizations or individuals who want
 to give to Orchestructure. If for some reason, you'd like to contribute but don't
 see a fitting option here, feel free to open an issue!
 
+> Please note that prices listed are *yearly*, **not** monthly!
+
 ### Gold
 
 **$1500/yr** or more. Items like swag or discounted offerings are encouraged.
 
 #### Includes
 
-* Mention at every meeting; Listing on Meetups Page
+* Mention at every meeting; Listing on [Meetup](https://www.meetup.com/orchestructure/) Page
 * Swag distribution at any meeting
 * One presentation each year around your offering
 * Retweet/Mention on Twitter monthly
@@ -31,7 +33,7 @@ see a fitting option here, feel free to open an issue!
 
 #### Includes
 
-* Mention at every meeting; Listing on Meetups Page
+* Mention at every meeting; Listing on [Meetup](https://www.meetup.com/orchestructure/) Page
 * Retweet/Mention on Twitter bi-monthly
 * 2 Lightning Talks at any time each year
 * Swag distribution at 2 meetings each year
