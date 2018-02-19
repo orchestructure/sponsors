@@ -17,7 +17,7 @@ see a fitting option here, feel free to open an issue!
 
 #### Includes
 
-* Mention at every meeting
+* Mention at every meeting; Listing on Meetups Page
 * Swag distribution at any meeting
 * One presentation each year around your offering
 * Retweet/Mention on Twitter monthly
@@ -31,7 +31,7 @@ see a fitting option here, feel free to open an issue!
 
 #### Includes
 
-* Mention at every meeting
+* Mention at every meeting; Listing on Meetups Page
 * Retweet/Mention on Twitter bi-monthly
 * 2 Lightning Talks at any time each year
 * Swag distribution at 2 meetings each year
