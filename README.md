@@ -21,8 +21,8 @@ see a fitting option here, feel free to open an issue!
 
 * Mention at every meeting; Listing on [Meetup](https://www.meetup.com/orchestructure/) Page
 * Swag distribution at any meeting
-* One presentation each year around your offering
-* Retweet/Mention on Twitter monthly
+* One [presentation](https://github.com/orchestructure/presentations) (or 2 [Lightning Talks](https://github.com/orchestructure/presentations#lightning-talks)) each year around your offering
+* Retweet/Mention on [Twitter](https://twitter.com/orchestructure) monthly
 * Logo display and link to website at every meeting
 * Mention in YouTube video post descriptions
 * Your logo on our t-shirts and other Orchestructure swag
@@ -34,8 +34,8 @@ see a fitting option here, feel free to open an issue!
 #### Includes
 
 * Mention at every meeting; Listing on [Meetup](https://www.meetup.com/orchestructure/) Page
-* Retweet/Mention on Twitter bi-monthly
-* 2 Lightning Talks at any time each year
+* Retweet/Mention on [Twitter](https://twitter.com/orchestructure) bi-monthly
+* 2 [Lightning Talks](https://github.com/orchestructure/presentations#lightning-talks) at any time each year
 * Swag distribution at 2 meetings each year
 
 ### Bronze
@@ -45,7 +45,7 @@ see a fitting option here, feel free to open an issue!
 #### Includes
 
 * Mention at every meeting
-* 1 Lightning Talk at any time each year
+* 1 [Lightning Talk](https://github.com/orchestructure/presentations#lightning-talks) at any time each year
 * Swag distribution at 1 meeting each year
 
 ### One-Time Mention
