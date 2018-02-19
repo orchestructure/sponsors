@@ -1,6 +1,6 @@
 ## Sponsoring Orchestructure
 
-While Orchestructure is made up of amazing attendees who provide ideas, insight,
+While [Orchestructure](orchestructure.io) is made up of amazing attendees who [provide](https://github.com/orchestructure/presentations) ideas, insight,
 and expertise, we still need awesome Sponsors to keep the group running smoothly.
 
 Most of our expenses revolve around planning, meeting, online resources and other miscellaneous expenses. We accept Paypal, check, cash, or direct deposit.
@@ -24,7 +24,7 @@ see a fitting option here, feel free to open an issue!
 * One [presentation](https://github.com/orchestructure/presentations) (or 2 [Lightning Talks](https://github.com/orchestructure/presentations#lightning-talks)) each year around your offering
 * Retweet/Mention on [Twitter](https://twitter.com/orchestructure) monthly
 * Logo display and link to website at every meeting
-* Mention in YouTube video post descriptions
+* Mention in [YouTube](https://www.youtube.com/channel/UCz3Z1cQ-DJMsdo6ftM27hkg) video post descriptions
 * Your logo on our t-shirts and other Orchestructure swag
 
 ### Silver
