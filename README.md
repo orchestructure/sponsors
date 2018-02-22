@@ -1,5 +1,7 @@
 ## Sponsoring Orchestructure
 
+ [![Meetup](https://img.shields.io/badge/Attend-Meetup-f13a59.svg)](https://www.meetup.com/orchestructure/) [![Slack](https://img.shields.io/badge/Chat-Slack-e9a820.svg)](http://madeina2.com/slack) [![Watch](https://img.shields.io/badge/Watch-Presentations-ff0000.svg)](https://www.youtube.com/channel/UCz3Z1cQ-DJMsdo6ftM27hkg) [![Donate](https://img.shields.io/badge/Donate-PayPal-blue.svg)](PayPal.Me/orchestructure)  [![Email](https://img.shields.io/badge/Email-Organizers-lightgrey.svg)](mailto:orchestructure.meetup@gmail.com)
+
 While [Orchestructure](orchestructure.io) is made up of amazing attendees who [provide](https://github.com/orchestructure/presentations) ideas, insight,
 and expertise, we still need awesome Sponsors to keep the group running smoothly.
 
