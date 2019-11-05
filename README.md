@@ -13,7 +13,7 @@ also have other options for smaller organizations or individuals who want
 to give to Orchestructure. If for some reason, you'd like to contribute but don't
 see a fitting option here, feel free to open an issue!
 
-Think you're ready to pull the trigger? [Sign up](http://orchestructure.io/sponsor)!
+Think you're ready to pull the trigger? [Sign up](https://goo.gl/forms/fOcP6A70fXWy21Ft2)!
 
 > Please note that prices listed are *yearly*, **not** monthly! Yes, it's that cheap!
 
