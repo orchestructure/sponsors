@@ -7,6 +7,8 @@ and expertise, we still need awesome Sponsors to keep the group running smoothly
 
 Most of our expenses revolve around planning, meeting, online resources and other miscellaneous expenses. We accept all common payment options (check, ach, paypal, etc..)
 
+> Orchestructure is a **non-profit** organization! 
+
 We provide three distinct tiers for Sponsors to give. They are meant to be flexible
 and fair to both the sponsors and meeting attendees. In addition, we
 also have other options for smaller organizations or individuals who want
