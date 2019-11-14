@@ -25,13 +25,12 @@ Think you're ready to pull the trigger? [Sign up](https://goo.gl/forms/fOcP6A70f
 
 #### Includes
 
-* Mention at every meeting; Listing on [Meetup](https://www.meetup.com/orchestructure/) Page
-* Swag distribution at any meeting
+* Mention at every meeting or event with listing on our main [site](htts://orchestructure.io/) and [Meetup](https://www.meetup.com/orchestructure/)
+* Swag distribution at any meeting you'd like
 * One [presentation](https://github.com/orchestructure/presentations) (or 2 [Lightning Talks](https://github.com/orchestructure/presentations#lightning-talks)) each year around your offering
-* Retweet/Mention on [Twitter](https://twitter.com/orchestructure) monthly
-* Logo display and link to website at every meeting
-* Mention in [YouTube](https://www.youtube.com/channel/UCz3Z1cQ-DJMsdo6ftM27hkg) video post descriptions
+* Retweet/Mention on [Twitter](https://twitter.com/orchestructure)
 * Your logo on our t-shirts and other Orchestructure swag
+* A warm, fuzzy feeling!
 
 ### Silver
 
@@ -43,6 +42,7 @@ Think you're ready to pull the trigger? [Sign up](https://goo.gl/forms/fOcP6A70f
 * Retweet/Mention on [Twitter](https://twitter.com/orchestructure) bi-monthly
 * 2 [Lightning Talks](https://github.com/orchestructure/presentations#lightning-talks) at any time each year
 * Swag distribution at 2 meetings each year
+* A warm, fuzzy feeling!
 
 ### Bronze
 
@@ -53,6 +53,7 @@ Think you're ready to pull the trigger? [Sign up](https://goo.gl/forms/fOcP6A70f
 * Mention at every meeting
 * 1 [Lightning Talk](https://github.com/orchestructure/presentations#lightning-talks) at any time each year
 * Swag distribution at 1 meeting each year
+* A warm, fuzzy feeling!
 
 ### One-Time Mention
 
