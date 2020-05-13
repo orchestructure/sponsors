@@ -29,7 +29,7 @@ You'll be able to utilize your Paypal account to pay with a bank account, credit
 
 Exmaple of Donation via PayPal:
 
-![](img/paypal-ex.png)
+![](paypal-ex.png)
 
 ## Levels of Sponsorship
 
