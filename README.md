@@ -27,7 +27,7 @@ You'll be able to utilize your Paypal account to pay with a bank account, credit
 4. Verify the transaction and click "*Send Payment Now*"
 5. Thank you so much for your donation; We'll be reaching out!
 
-**Exmaple of Donation via PayPal:**
+### Exmaple of Donation via PayPal:
 
 ![](paypal-ex.png)
 
