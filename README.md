@@ -31,7 +31,7 @@ Exmaple of Donation via PayPal:
 
 ![](img/paypal-ex.png)
 
-## Levels on Sponsorship
+## Levels of Sponsorship
 
 > Please note that prices listed are *yearly*, **not** monthly! Yes, it's that cheap!
 
