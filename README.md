@@ -17,7 +17,7 @@ see a fitting option here, feel free to open an issue!
 
 Think you're ready to pull the trigger? [Sign up](https://goo.gl/forms/fOcP6A70fXWy21Ft2) or straight to [Paypal]((https://paypal.me/orchestructure))!
 
-#### Paying with PayPal
+### Paying with PayPal
 
 You'll be able to utilize your Paypal account to pay with a bank account, credit card, or paypal balance.
 
@@ -27,7 +27,7 @@ You'll be able to utilize your Paypal account to pay with a bank account, credit
 4. Verify the transaction and click "*Send Payment Now*"
 5. Thank you so much for your donation; We'll be reaching out!
 
-Exmaple of Donation via PayPal:
+**Exmaple of Donation via PayPal:**
 
 ![](paypal-ex.png)
 
